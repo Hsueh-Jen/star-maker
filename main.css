@@ -1,0 +1,38 @@
+/* 在這邊寫css */
+
+*{
+    font-family: Microsoft jhenghei;
+}
+
+body{
+    text-align: center;
+    background: url(/images/bg.jpg);
+    background-size:cover;
+}
+
+button{
+    background: rgb(255, 184, 90,0.5);
+    width:800px;
+    font-family: Microsoft jhenghei;
+    font-size: 30px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    outline: none;
+    cursor: pointer;
+}
+
+h1{
+    font-size:60px;
+    color:white;
+    font-family: Microsoft jhenghei;
+}
+
+#result{
+    color:white;
+    width: 800px;
+    font-size:100px;
+    background: rgba(92, 29, 0, 0.7);
+    border-radius:10px 10px 0 0;
+    margin:0px auto;
+}
+
